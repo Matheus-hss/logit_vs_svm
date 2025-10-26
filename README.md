@@ -1,1 +1,1 @@
-Este script é um projeto completo de classificação económica usando dados do FMI (Fundo Monetário Internacional). Ele combina técnicas de análise estatística, aprendizagem automática (machine learning) e visualização animada.
+Este script é um projeto completo de classificação econômica usando dados do FMI (Fundo Monetário Internacional). Ele combina técnicas de análise estatística, aprendizagem automática (machine learning) e visualização animada.
